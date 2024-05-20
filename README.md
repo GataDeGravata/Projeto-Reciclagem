@@ -1,2 +1,3 @@
 # ProjetoAPS
-Projeto APS em Java 2024
+Primeira versão da APS. 
+Estilo Snake Game, sem estilização, apenas uma interface simples.
